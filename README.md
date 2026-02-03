@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋👋  
+I'm a Frontend developer focused on building fast, clean, user-friendly web apps.
 
+⚡ Stack: Next.js • React • TypeScript • Node.js • MongoDB  
+🚀 Currently building real-world SaaS & dashboard apps  
+🧠 Learning advanced backend architecture & scalable systems  
+🎯 Goal: Become a world-class full-stack engineer
+
+I love turning ideas into products that people actually use.
 <!--
 **MorsH14/MorsH14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
