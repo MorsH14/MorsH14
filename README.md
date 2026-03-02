@@ -1,5 +1,5 @@
 ## Hi there 👋👋  
-I'm a Frontend developer focused on building fast, clean, user-friendly web apps.
+I'm a developer focused on building fast, clean, user-friendly web apps.
 
 ⚡ Stack: Next.js • React • TypeScript • Node.js • MongoDB  
 🚀 Currently building real-world SaaS & dashboard apps  
